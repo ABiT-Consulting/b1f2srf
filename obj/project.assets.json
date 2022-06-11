@@ -8,24 +8,31 @@
     "net6.0": []
   },
   "packageFolders": {
-    "/home/muhammad/.nuget/packages/": {}
+    "C:\\Users\\Haroon\\.nuget\\packages\\": {},
+    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/media/muhammad/DATA/Code/comparison/b1ftosrf/b1ftosrf.csproj",
+      "projectUniqueName": "C:\\Code\\MH\\b1f2srf\\b1ftosrf.csproj",
       "projectName": "b1ftosrf",
-      "projectPath": "/media/muhammad/DATA/Code/comparison/b1ftosrf/b1ftosrf.csproj",
-      "packagesPath": "/home/muhammad/.nuget/packages/",
-      "outputPath": "/media/muhammad/DATA/Code/comparison/b1ftosrf/obj/",
+      "projectPath": "C:\\Code\\MH\\b1f2srf\\b1ftosrf.csproj",
+      "packagesPath": "C:\\Users\\Haroon\\.nuget\\packages\\",
+      "outputPath": "C:\\Code\\MH\\b1f2srf\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Microsoft\\Xamarin\\NuGet\\"
+      ],
       "configFilePaths": [
-        "/home/muhammad/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\Haroon\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -53,12 +60,7 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "frameworkReferences": {
-          "Microsoft.NETCore.App": {
-            "privateAssets": "all"
-          }
-        },
-        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.300/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }
